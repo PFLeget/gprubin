@@ -14,13 +14,6 @@ The easiest way to install is usually::
 
 which will install the latest released version.
 
-If you would instead like to install the development version, you can do so via::
-
-  TO DO 
-  TO DO
-  TO DO
-
-
 Dependencies
 ------------
 
@@ -28,3 +21,9 @@ Dependencies
 installs below):
 
 - libraries listed in the `requirements <requirements.txt>`_ file
+
+Example
+--------
+
+You can find a notebook example in the `examples <examples>`_ folder.
+
