@@ -10,7 +10,7 @@ Installation
 
 The easiest way to install is usually::
 
-  TO DO
+  pip install gprubin
 
 which will install the latest released version.
 
