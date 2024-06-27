@@ -25,5 +25,5 @@ installs below):
 Example
 --------
 
-You can find a notebook example in the `examples <examples>`_ folder.
+You can find a notebook example in the `notebook <notebook>`_ folder.
 
